@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Raw data (often large or license-restricted, shouldn't be redistributed)
+data/raw/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (personal, not project-relevant)
+.vscode/
