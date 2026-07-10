@@ -1,0 +1,15 @@
+test_group,most_ads_day,total_users,total_conversions,conversion_rate_pct
+ad,Monday,83571,2778,3.32
+ad,Tuesday,74572,2270,3.04
+ad,Wednesday,77418,1963,2.54
+ad,Thursday,79077,1711,2.16
+ad,Friday,88805,1995,2.25
+ad,Saturday,78802,1679,2.13
+ad,Sunday,82332,2027,2.46
+psa,Monday,3502,79,2.26
+psa,Tuesday,2907,42,1.44
+psa,Wednesday,3490,55,1.58
+psa,Thursday,3905,79,2.02
+psa,Friday,3803,62,1.63
+psa,Saturday,2858,40,1.40
+psa,Sunday,3059,63,2.06
